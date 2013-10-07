@@ -1,15 +1,15 @@
 (function() {
 
     var map = {
-        'she': 'ze',
-        'he': 'ze',
-        'her': 'zir',
-        'him': 'zir',
-        'his': 'zir',
-        'hers': 'zirs',
-        'his': 'zirs',
-        'herself': 'zirself',
-        'himself': 'zirself'
+        'she': 'ne',
+        'he': 'ne',
+        'her': 'nir',
+        'him': 'nir',
+        'his': 'nir',
+        'hers': 'nirs',
+        'his': 'nirs',
+        'herself': 'nirself',
+        'himself': 'nirself'
     };
 
     function replace(textNode) {
